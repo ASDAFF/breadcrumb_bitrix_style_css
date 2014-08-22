@@ -6,7 +6,7 @@
 
 ## Нужны другие стили оформления?
 
-Берем их (http://red-team-design.com/css3-breadcrumbs/)[отсюда]
+Берем их [отсюда](http://red-team-design.com/css3-breadcrumbs)
 
 и кидаем в style, изменяя id div
 
